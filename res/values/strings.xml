@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HTTPRequests</string>
+    <string name="setURL">Input the URL</string>
+    <string name="editUrlHint">http://IP/ebre-escool/index.php/module</string>
+    <string name="action_settings">Settings</string>
+    <string name="getButton">Get Method</string>
+    <string name="postButton">Post Method</string>
+    <string name="Id">Id</string>
+    <string name="personId">Person_Id</string>
+    <string name="userId">User_id</string>
+    <string name="entryDate">Entry_Date</string>
+    <string name="lastUpdate">Last_Update</string>
+    <string name="lastUpdateUserId">Last_Update_User_Id</string>
+    <string name="creatorId">Creator_Id</string>
+    <string name="markedForDeletion">Marked_For_Deletion</string>
+    <string name="markedForDeletionDate">Marked_For_Deletion_Date</string>
+    <string name="DniNif">DNI_NIF</string>
+    
+
+</resources>
